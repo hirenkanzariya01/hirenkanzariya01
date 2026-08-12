@@ -1,0 +1,99 @@
+<svg width="1000" height="500" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nnBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a17"/>
+      <stop offset="100%" stop-color="#0b0f24"/>
+    </linearGradient>
+    <radialGradient id="nnGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="nodeGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2.5"/>
+    </filter>
+    <style>
+      .edge { stroke: #23335c; stroke-width: 1.2; }
+      .card { fill: #0f1730; stroke: #22345f; stroke-width: 1; }
+      .cardText { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; fill: #cbd5f5; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="500" fill="url(#nnBg)"/>
+  <circle cx="500" cy="230" r="260" fill="url(#nnGlow)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Layers of nodes: input(4) - hidden(5) - hidden(5) - output(3) -->
+  <g class="edge" id="edges">
+    <!-- input->hidden1 -->
+    <g id="l1">
+      <line x1="220" y1="120" x2="420" y2="90"/><line x1="220" y1="120" x2="420" y2="160"/><line x1="220" y1="120" x2="420" y2="230"/><line x1="220" y1="120" x2="420" y2="300"/><line x1="220" y1="120" x2="420" y2="370"/>
+      <line x1="220" y1="190" x2="420" y2="90"/><line x1="220" y1="190" x2="420" y2="160"/><line x1="220" y1="190" x2="420" y2="230"/><line x1="220" y1="190" x2="420" y2="300"/><line x1="220" y1="190" x2="420" y2="370"/>
+      <line x1="220" y1="260" x2="420" y2="90"/><line x1="220" y1="260" x2="420" y2="160"/><line x1="220" y1="260" x2="420" y2="230"/><line x1="220" y1="260" x2="420" y2="300"/><line x1="220" y1="260" x2="420" y2="370"/>
+      <line x1="220" y1="330" x2="420" y2="90"/><line x1="220" y1="330" x2="420" y2="160"/><line x1="220" y1="330" x2="420" y2="230"/><line x1="220" y1="330" x2="420" y2="300"/><line x1="220" y1="330" x2="420" y2="370"/>
+    </g>
+    <!-- hidden1 -> hidden2 -->
+    <g id="l2">
+      <line x1="420" y1="90" x2="600" y2="130"/><line x1="420" y1="90" x2="600" y2="230"/><line x1="420" y1="90" x2="600" y2="330"/>
+      <line x1="420" y1="160" x2="600" y2="130"/><line x1="420" y1="160" x2="600" y2="230"/><line x1="420" y1="160" x2="600" y2="330"/>
+      <line x1="420" y1="230" x2="600" y2="130"/><line x1="420" y1="230" x2="600" y2="230"/><line x1="420" y1="230" x2="600" y2="330"/>
+      <line x1="420" y1="300" x2="600" y2="130"/><line x1="420" y1="300" x2="600" y2="230"/><line x1="420" y1="300" x2="600" y2="330"/>
+      <line x1="420" y1="370" x2="600" y2="130"/><line x1="420" y1="370" x2="600" y2="230"/><line x1="420" y1="370" x2="600" y2="330"/>
+    </g>
+    <!-- hidden2 -> output -->
+    <g id="l3">
+      <line x1="600" y1="130" x2="780" y2="180"/><line x1="600" y1="130" x2="780" y2="230"/><line x1="600" y1="130" x2="780" y2="280"/>
+      <line x1="600" y1="230" x2="780" y2="180"/><line x1="600" y1="230" x2="780" y2="230"/><line x1="600" y1="230" x2="780" y2="280"/>
+      <line x1="600" y1="330" x2="780" y2="180"/><line x1="600" y1="330" x2="780" y2="230"/><line x1="600" y1="330" x2="780" y2="280"/>
+    </g>
+  </g>
+
+  <!-- nodes -->
+  <g filter="url(#nodeGlow)">
+    <circle cx="220" cy="120" r="8" fill="#22d3ee"/><circle cx="220" cy="190" r="8" fill="#22d3ee"/><circle cx="220" cy="260" r="8" fill="#22d3ee"/><circle cx="220" cy="330" r="8" fill="#22d3ee"/>
+    <circle cx="420" cy="90" r="8" fill="#818cf8"/><circle cx="420" cy="160" r="8" fill="#818cf8"/><circle cx="420" cy="230" r="8" fill="#818cf8"/><circle cx="420" cy="300" r="8" fill="#818cf8"/><circle cx="420" cy="370" r="8" fill="#818cf8"/>
+    <circle cx="600" cy="130" r="8" fill="#818cf8"/><circle cx="600" cy="230" r="8" fill="#818cf8"/><circle cx="600" cy="330" r="8" fill="#818cf8"/>
+    <circle cx="780" cy="180" r="9" fill="#34d399"/><circle cx="780" cy="230" r="9" fill="#34d399"/><circle cx="780" cy="280" r="9" fill="#34d399"/>
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="1;1;1" dur="1s"/>
+  </g>
+
+  <!-- pulsing rings -->
+  <g fill="none" stroke="#22d3ee" stroke-width="1.5">
+    <circle cx="600" cy="230" r="8"><animate attributeName="r" values="8;22;8" dur="2.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0;0.8" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="230" r="9" stroke="#34d399"><animate attributeName="r" values="9;24;9" dur="3s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0;0.8" dur="3s" begin="0.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- traveling particles -->
+  <circle r="3" fill="#e0f2fe"><animateMotion dur="2.2s" repeatCount="indefinite" path="M220,120 L420,160 L600,230 L780,230"/></circle>
+  <circle r="3" fill="#e0f2fe"><animateMotion dur="2.6s" begin="0.4s" repeatCount="indefinite" path="M220,260 L420,230 L600,130 L780,180"/></circle>
+  <circle r="2.5" fill="#c7d2fe"><animateMotion dur="2.4s" begin="0.9s" repeatCount="indefinite" path="M220,330 L420,300 L600,330 L780,280"/></circle>
+  <circle r="2.5" fill="#c7d2fe"><animateMotion dur="2.8s" begin="1.3s" repeatCount="indefinite" path="M220,190 L420,90 L600,130 L780,180"/></circle>
+
+  <!-- floating tech cards -->
+  <g class="cardText">
+    <g><rect class="card" x="40" y="20" width="90" height="34" rx="8"/><text x="85" y="42" text-anchor="middle">Python</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="4s" repeatCount="indefinite"/>
+    </g>
+    <g><rect class="card" x="40" y="420" width="90" height="34" rx="8"/><text x="85" y="442" text-anchor="middle">SQL</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,8; 0,0" dur="4.5s" repeatCount="indefinite"/>
+    </g>
+    <g><rect class="card" x="850" y="20" width="110" height="34" rx="8"/><text x="905" y="42" text-anchor="middle">Pandas</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3.6s" repeatCount="indefinite"/>
+    </g>
+    <g><rect class="card" x="850" y="70" width="110" height="34" rx="8"/><text x="905" y="92" text-anchor="middle">NumPy</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,8; 0,0" dur="4.2s" repeatCount="indefinite"/>
+    </g>
+    <g><rect class="card" x="850" y="380" width="130" height="34" rx="8"/><text x="915" y="402" text-anchor="middle">Scikit-learn</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="3.9s" repeatCount="indefinite"/>
+    </g>
+    <g><rect class="card" x="850" y="430" width="130" height="34" rx="8"/><text x="915" y="452" text-anchor="middle">Matplotlib</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,8; 0,0" dur="4.4s" repeatCount="indefinite"/>
+    </g>
+    <g><rect class="card" x="40" y="220" width="110" height="34" rx="8"/><text x="95" y="242" text-anchor="middle">Power BI</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0; -6,0; 0,0" dur="4.8s" repeatCount="indefinite"/>
+    </g>
+    <g><rect class="card" x="820" y="230" width="150" height="34" rx="8"/><text x="895" y="252" text-anchor="middle">Git &amp; GitHub</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 6,0; 0,0" dur="4.1s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
