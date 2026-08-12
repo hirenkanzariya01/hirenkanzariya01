@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🌌 KANZARIYA AMIT
+# 🌌 KANZARIYA Hiren
 ### 🚀 Data Architect | AI & Analytics Visionary
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=Decoding+Data+to+Drive+Innovation;Building+Intelligent+Data+Experiences;Transforming+Raw+Information+into+Strategic+Insights" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 | 🛰️ Status | 🟢 Initializing |
 | :--- | :--- |
 | **Last Synchronized** | `2026-06-09 09:34:30 UTC` |
-| **Tactical Tip** | `SQL: Use EXPLAIN to understand how your database executes a query and identify bottlenecks.` |
+| **Tactical Tip** | `AI/ML & Data Analytics: Transform data into insights, models, and impact.` |
 
 <!-- SYSTEM_STATUS_END -->
 
@@ -79,20 +79,20 @@
   <tr>
     <td width="50%">
       <h3 align="center">💳 UPI Payment Analysis</h3>
-      <img src="https://raw.githubusercontent.com/kanzariya-Amit/power_bi-_work/main/UPI%20Analysis/dashboard.png" width="100%">
+      <img src="https://raw.githubusercontent.com/kanzariya-Hiren/power_bi-_work/main/UPI%20Analysis/dashboard.png" width="100%">
       <p align="left">Interactive dashboard analyzing transaction trends and market share of major UPI apps in India. Built with Power BI & DAX.</p>
       <div align="center">
-        <a href="https://github.com/kanzariya-Amit/power_bi-_work/tree/main/UPI%20Analysis">
+        <a href="https://github.com/kanzariya-Hiren/power_bi-_work/tree/main/UPI%20Analysis">
           <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">🛒 Retail Sales Insight</h3>
-      <img src="https://raw.githubusercontent.com/kanzariya-Amit/power_bi-_work/main/Retail%20Store%20Sales%20Analysis/Dashboard.png" width="100%">
+      <img src="https://raw.githubusercontent.com/kanzariya-Hiren/power_bi-_work/main/Retail%20Store%20Sales%20Analysis/Dashboard.png" width="100%">
       <p align="left">End-to-end analysis of retail performance, customer churn, and product category contribution using SQL and Power BI.</p>
       <div align="center">
-        <a href="https://github.com/kanzariya-Amit/power_bi-_work/tree/main/Retail%20Store%20Sales%20Analysis">
+        <a href="https://github.com/kanzariya-Hiren/power_bi-_work/tree/main/Retail%20Store%20Sales%20Analysis">
           <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </div>
@@ -101,10 +101,10 @@
   <tr>
     <td width="50%">
       <h3 align="center">💱 INR Currency Pulse</h3>
-      <img src="https://github.com/kanzariya-Amit/power_bi-_work/blob/main/INR-Currency-Dashboard/currency_dashboard.png" width="100%">
+      <img src="https://github.com/kanzariya-Hiren/power_bi-_work/blob/main/INR-Currency-Dashboard/currency_dashboard.png" width="100%">
       <p align="left">Real-time tracking and YoY growth analysis of INR against major global currencies like USD, EUR, and GBP.</p>
       <div align="center">
-        <a href="https://github.com/kanzariya-Amit/power_bi-_work/tree/main/INR-Currency-Dashboard">
+        <a href="https://github.com/kanzariya-Hiren/power_bi-_work/tree/main/INR-Currency-Dashboard">
           <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </div>
@@ -124,7 +124,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kanzariya-Amit/Kanzariya-Amit/output/profile-night-green.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Kanzariya-Hiren/Kanzariya-Hiren/output/profile-night-green.svg" width="100%">
 
 </div>
 
@@ -134,33 +134,33 @@
 <div align="center">
 
 <!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanzariya-Amit&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanzariya-Hiren&theme=tokyonight" width="100%"/>
 
 <br><br>
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=
-Kanzariya-Amit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="49%"/>
+Kanzariya-Hiren&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="49%"/>
 
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=
-Kanzariya-Amit&theme=tokyonight&hide_border=true" width="49%"/>
+Kanzariya-Hiren&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br><br>
 
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-Kanzariya-Amit&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+Kanzariya-Hiren&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 <!-- Repositories Per Language -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=
-Kanzariya-Amit&theme=tokyonight" width="49%"/>
+Kanzariya-Hiren&theme=tokyonight" width="49%"/>
 
 <br><br>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=
-Kanzariya-Amit&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+Kanzariya-Hiren&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -170,7 +170,7 @@ Kanzariya-Amit&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=
-Kanzariya-Amit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+Kanzariya-Hiren&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
 
 </div>
 
@@ -180,7 +180,7 @@ Kanzariya-Amit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&colum
 
 <div align="center">
 
-<a href="http://linkedin.com/in/amit-kanzariya-56b210395/">
+<a href="http://linkedin.com/in/Hiren-kanzariya-56b210395/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -194,8 +194,8 @@ Kanzariya-Amit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&colum
 <div align="center">
 
 ### ⭐️ Designed by [
-Kanzariya-Amit](https://github.com/
-Kanzariya-Amit)
+Kanzariya-Hiren](https://github.com/
+Kanzariya-Hiren)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&text=END+OF+TRANSMISSION&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" />
 
