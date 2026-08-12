@@ -1,202 +1,210 @@
+<div align="center">
+
+<!-- ============ HERO BANNER ============ -->
+<img src="assets/hero.svg" alt="Hiren Kanzariya - AI/ML & Data Analyst" width="100%"/>
+
+<br/>
+
+<!-- ============ TYPING ANIMATION ============ -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=600&height=50&lines=AI%2FML+Engineer;Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;SQL+Developer" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hirenkanzariya&label=Profile%20Views&color=22D3EE&style=flat" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Location-Gujarat%2C%20India-818CF8?style=flat" alt="Location"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%2F%20Data-34D399?style=flat" alt="Focus"/>
+
+</div>
+
+<br/>
+
+## 👋 About Me
+
+I'm **Hiren Kanzariya**, an **AI/ML & Data Analyst** based in Gujarat, India, focused on turning raw data into practical, intelligent solutions. I work primarily with **Python** and **SQL**, using **Pandas** and **NumPy** for data wrangling, **Scikit-learn** for building machine learning models, and clear **data visualization** to communicate insights that matter.
+
+- 🔍 I enjoy the full pipeline — cleaning messy data, exploring it, training models, and evaluating what actually works.
+- 🧠 Strong believer in solving real problems over chasing buzzwords — practical machine learning and data analysis over hype.
+- 🛠️ I build small, focused projects to keep learning by doing, not just reading.
+- 📊 Comfortable moving between a Jupyter notebook, a SQL query, and a dashboard in the same afternoon.
+- 🌱 Currently sharpening my skills in AI Agents, Generative AI, and Data Engineering.
+
+<br/>
+
+## 🧠 Neural Network & Tech Visualization
+
+<div align="center">
+<img src="assets/neural-network.svg" alt="Neural Network Visualization" width="100%"/>
+</div>
+
+<br/>
+
+## 💻 Live Pipeline Terminal
+
+<div align="center">
+<img src="assets/terminal.svg" alt="Terminal Animation" width="90%"/>
+</div>
+
+<br/>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-# 🌌 KANZARIYA HIREN
-### 🚀 Data Architect | AI & Analytics Visionary
+**Programming**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=Decoding+Data+to+Drive+Innovation;Building+Intelligent+Data+Experiences;Transforming+Raw+Information+into+Strategic+Insights" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+**Data Analysis**
 
----
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-# 🖥️ SYSTEM STATUS
+**Machine Learning**
 
-<!-- SYSTEM_STATUS_START -->
-| 🛰️ Status | 🟢 Initializing |
-| :--- | :--- |
-| **Last Synchronized** | `2026-06-09 09:34:30 UTC` |
-| **Tactical Tip** | `AI/ML & Data Analytics: Transform data into insights, models, and impact.` |
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-2C7FB0?style=for-the-badge&logo=xgboost&logoColor=white"/>
 
-<!-- SYSTEM_STATUS_END -->
+**Tools**
 
----
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-# 🛸 MISSION CONTROL
+</div>
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hirenkanzariya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1326&title_color=22D3EE&icon_color=818CF8&text_color=CBD5F5" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirenkanzariya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1326&title_color=22D3EE&text_color=CBD5F5" alt="Top Languages" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=hirenkanzariya&theme=tokyonight&hide_border=true&background=0D1326&ring=22D3EE&fire=34D399&currStreakLabel=22D3EE" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+## 🌱 Contribution Activity
+
+> Consistency → Growth → Impact
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hirenkanzariya&theme=tokyo-night&hide_border=true&bg_color=0D1326&color=22D3EE&line=818CF8&point=34D399" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      🤖<br>
-      <b>Machine Learning</b><br>
-      Predictive Modeling
+    <td width="50%" valign="top">
+      <h3>📈 Sales Data Analysis Dashboard</h3>
+      <p>End-to-end analysis of retail sales data — cleaning, exploratory analysis, and an interactive Power BI dashboard highlighting revenue trends and top-performing regions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      </p>
+      <a href="https://github.com/hirenkanzariya">🔗 Repository</a>
     </td>
-    <td align="center" width="25%">
-      📊<br>
-      <b>Data Analytics</b><br>
-      Visual Storytelling
+    <td width="50%" valign="top">
+      <h3>🤖 Customer Churn Prediction</h3>
+      <p>A classification model that predicts customer churn using Scikit-learn, with feature engineering, model comparison, and evaluation using precision, recall, and ROC-AUC.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      </p>
+      <a href="https://github.com/hirenkanzariya">🔗 Repository</a>
     </td>
-    <td align="center" width="25%">
-      ☁️<br>
-      <b>MLOps</b><br>
-      Scalable Architectures
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗃️ SQL Data Exploration Toolkit</h3>
+      <p>A collection of SQL queries and stored procedures for exploring, cleaning, and aggregating large relational datasets, built around real business questions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/hirenkanzariya">🔗 Repository</a>
     </td>
-    <td align="center" width="25%">
-      🎯<br>
-      <b>Strategic Growth</b><br>
-      Business Impact
+    <td width="50%" valign="top">
+      <h3>📉 Exploratory Data Analysis Toolkit</h3>
+      <p>A reusable Python toolkit for fast exploratory data analysis — automated summary statistics, missing-value reports, and visualization with Matplotlib and Seaborn.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/hirenkanzariya">🔗 Repository</a>
     </td>
   </tr>
 </table>
 
----
+> ℹ️ Replace the project names, descriptions, tech stacks, and links above with your actual repositories.
 
-# 🛠️ CYBER TECH STACK
+<br/>
 
-### 🧬 Data Engineering & Intelligence
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🔮 Visualization & Analytics
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-# 🚀 FEATURED UNIVERSE
+## 📚 Currently Learning
 
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">💳 UPI Payment Analysis</h3>
-      <img src="https://raw.githubusercontent.com/kanzariya-Hiren/power_bi-_work/main/UPI%20Analysis/dashboard.png" width="100%">
-      <p align="left">Interactive dashboard analyzing transaction trends and market share of major UPI apps in India. Built with Power BI & DAX.</p>
-      <div align="center">
-        <a href="https://github.com/kanzariya-Hiren/power_bi-_work/tree/main/UPI%20Analysis">
-          <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛒 Retail Sales Insight</h3>
-      <img src="https://raw.githubusercontent.com/kanzariya-Hiren/power_bi-_work/main/Retail%20Store%20Sales%20Analysis/Dashboard.png" width="100%">
-      <p align="left">End-to-end analysis of retail performance, customer churn, and product category contribution using SQL and Power BI.</p>
-      <div align="center">
-        <a href="https://github.com/kanzariya-Hiren/power_bi-_work/tree/main/Retail%20Store%20Sales%20Analysis">
-          <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💱 INR Currency Pulse</h3>
-      <img src="https://github.com/kanzariya-Hiren/power_bi-_work/blob/main/INR-Currency-Dashboard/currency_dashboard.png" width="100%">
-      <p align="left">Real-time tracking and YoY growth analysis of INR against major global currencies like USD, EUR, and GBP.</p>
-      <div align="center">
-        <a href="https://github.com/kanzariya-Hiren/power_bi-_work/tree/main/INR-Currency-Dashboard">
-          <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50%">
-      <p>More projects arriving in deep space soon...</p>
-    </td>
-  </tr>
-</table>
+| Topic | Status |
+|---|---|
+| 🤖 AI Agents | ██████░░░░ In progress |
+| ✨ Generative AI | █████░░░░░ In progress |
+| 🧠 Machine Learning | ███████░░░ Actively practicing |
+| 🔬 Deep Learning | ████░░░░░░ Just started |
+| 🗄️ Data Engineering | ████░░░░░░ Just started |
+| 🧮 Advanced SQL | ██████░░░░ In progress |
 
 </div>
 
----
+<br/>
 
-# THE CONTRIBUTION VOID
+## 🎯 Current Focus — What I'm Working On
+
+- 🧪 Machine learning projects that solve real, well-defined business problems
+- 📊 Data analysis work turning raw datasets into clear, actionable insights
+- 🤖 AI-powered applications that combine models with usable interfaces
+- 🗃️ SQL projects for data cleaning, transformation, and reporting
+- 🧩 Practical AI solutions built end-to-end, from data to deployment
+
+<br/>
+
+## 📬 Connect With Me
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kanzariya-Hiren/Kanzariya-Hiren/output/profile-night-green.svg" width="100%">
+<a href="https://github.com/hirenkanzariya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/hirenkanzariya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hiren.kanzariya@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </div>
 
----
-# 📊 NEURAL METRICS
+> ℹ️ Replace the links above (GitHub, LinkedIn, Email, Portfolio, YouTube) with your real profile URLs.
 
+<br/>
+
+<!-- ============ FOOTER ============ -->
 <div align="center">
-
-<!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanzariya-Hiren&theme=tokyonight" width="100%"/>
-
-<br><br>
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=
-Kanzariya-Hiren&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="49%"/>
-
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=
-Kanzariya-Hiren&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br><br>
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-Kanzariya-Hiren&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-<!-- Repositories Per Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=
-Kanzariya-Hiren&theme=tokyonight" width="49%"/>
-
-<br><br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=
-Kanzariya-Hiren&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-# 🏆 LEGENDARY TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=
-Kanzariya-Hiren&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
-
-</div>
-
----
-
-# 🛰️ CONNECT WITH ME
-
-<div align="center">
-
-<a href="http://linkedin.com/in/Hiren-kanzariya-56b210395/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kanzariya562@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</div>
-
----
-
-<div align="center">
-
-### ⭐️ Designed by [
-Kanzariya-Hiren](https://github.com/
-Kanzariya-Hiren)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&text=END+OF+TRANSMISSION&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" />
-
+<img src="assets/footer.svg" alt="Footer" width="100%"/>
 </div>
