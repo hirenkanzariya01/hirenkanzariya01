@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ============ HERO BANNER ============ -->
-<img src="assets/hero.svg" alt="Hiren Kanzariya - AI/ML & Data Analyst" width="100%"/>
+<img src="hero.svg" alt="Hiren Kanzariya - AI/ML & Data Analyst" width="100%"/>
 
 <br/>
 
@@ -35,7 +35,7 @@ I'm **Hiren Kanzariya**, an **AI/ML & Data Analyst** based in Gujarat, India, fo
 ## 🧠 Neural Network & Tech Visualization
 
 <div align="center">
-<img src="assets/neural-network.svg" alt="Neural Network Visualization" width="100%"/>
+<img src="neural-network.svg" alt="Neural Network Visualization" width="100%"/>
 </div>
 
 <br/>
@@ -43,7 +43,7 @@ I'm **Hiren Kanzariya**, an **AI/ML & Data Analyst** based in Gujarat, India, fo
 ## 💻 Live Pipeline Terminal
 
 <div align="center">
-<img src="assets/terminal.svg" alt="Terminal Animation" width="90%"/>
+<img src="terminal.svg" alt="Terminal Animation" width="90%"/>
 </div>
 
 <br/>
@@ -206,5 +206,5 @@ I'm **Hiren Kanzariya**, an **AI/ML & Data Analyst** based in Gujarat, India, fo
 
 <!-- ============ FOOTER ============ -->
 <div align="center">
-<img src="assets/footer.svg" alt="Footer" width="100%"/>
+<img src="footer.svg" alt="Footer" width="100%"/>
 </div>
