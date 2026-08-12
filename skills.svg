@@ -1,0 +1,135 @@
+<svg viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg" font-family="'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="520" fill="#FAF6EF"/>
+
+  <text x="60" y="55" font-size="12" letter-spacing="3" fill="#8C8577" font-family="'Courier New', monospace">02 &#8212; SKILLS</text>
+  <text x="60" y="90" font-size="30" font-weight="700" fill="#232019">Skill Map</text>
+  <line x1="60" y1="106" x2="130" y2="106" stroke="#C1603C" stroke-width="3"/>
+
+  <!-- template for a category column -->
+  <!-- PROGRAMMING -->
+  <g transform="translate(70,150)">
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.2s" fill="freeze"/>
+      <rect x="0" y="0" width="240" height="36" fill="#232019"/>
+      <text x="120" y="23" text-anchor="middle" font-size="13" fill="#FAF6EF" letter-spacing="1.5">PROGRAMMING</text>
+    </g>
+    <line x1="120" y1="36" x2="120" y2="56" stroke="#8C8577" stroke-width="1.3" stroke-dasharray="20">
+      <animate attributeName="stroke-dashoffset" from="20" to="0" dur="0.3s" begin="0.6s" fill="freeze"/>
+    </line>
+    <g font-size="13" fill="#232019">
+      <g opacity="0" transform="translate(20,66)"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.7s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <circle cx="18" cy="17" r="4" fill="#C1603C"/>
+        <text x="34" y="21">Python</text>
+      </g>
+      <g opacity="0" transform="translate(20,110)"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.9s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <circle cx="18" cy="17" r="4" fill="#6E7452"/>
+        <text x="34" y="21">SQL</text>
+      </g>
+      <g opacity="0" transform="translate(20,154)"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.1s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <circle cx="18" cy="17" r="4" fill="#D6A94A"/>
+        <text x="34" y="21">JavaScript</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- DATA ANALYSIS -->
+  <g transform="translate(340,150)">
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.3s" fill="freeze"/>
+      <rect x="0" y="0" width="240" height="36" fill="#232019"/>
+      <text x="120" y="23" text-anchor="middle" font-size="13" fill="#FAF6EF" letter-spacing="1.5">DATA ANALYSIS</text>
+    </g>
+    <line x1="120" y1="36" x2="120" y2="56" stroke="#8C8577" stroke-width="1.3" stroke-dasharray="20">
+      <animate attributeName="stroke-dashoffset" from="20" to="0" dur="0.3s" begin="0.7s" fill="freeze"/>
+    </line>
+    <g font-size="13" fill="#232019">
+      <g opacity="0" transform="translate(20,66)"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.8s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <circle cx="18" cy="17" r="4" fill="#C1603C"/>
+        <text x="34" y="21">Pandas</text>
+      </g>
+      <g opacity="0" transform="translate(20,110)"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.0s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <circle cx="18" cy="17" r="4" fill="#6E7452"/>
+        <text x="34" y="21">NumPy</text>
+      </g>
+      <g opacity="0" transform="translate(20,154)"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.2s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <circle cx="18" cy="17" r="4" fill="#D6A94A"/>
+        <text x="34" y="21">Matplotlib</text>
+      </g>
+      <g opacity="0" transform="translate(20,198)"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.4s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <circle cx="18" cy="17" r="4" fill="#C1603C"/>
+        <text x="34" y="21">Seaborn</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- MACHINE LEARNING -->
+  <g transform="translate(610,150)">
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.4s" fill="freeze"/>
+      <rect x="0" y="0" width="240" height="36" fill="#C1603C"/>
+      <text x="120" y="23" text-anchor="middle" font-size="13" fill="#FAF6EF" letter-spacing="1.5">MACHINE LEARNING</text>
+    </g>
+    <line x1="120" y1="36" x2="120" y2="56" stroke="#8C8577" stroke-width="1.3" stroke-dasharray="20">
+      <animate attributeName="stroke-dashoffset" from="20" to="0" dur="0.3s" begin="0.8s" fill="freeze"/>
+    </line>
+    <g font-size="13" fill="#232019">
+      <g opacity="0" transform="translate(20,66)"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.9s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#C1603C" stroke-width="1.4"/>
+        <circle cx="18" cy="17" r="4" fill="#C1603C">
+          <animate attributeName="r" values="4;5;4" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+        </circle>
+        <text x="34" y="21" font-weight="600">Scikit-learn</text>
+      </g>
+      <g opacity="0" transform="translate(20,110)"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.1s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <circle cx="18" cy="17" r="4" fill="#6E7452"/>
+        <text x="34" y="21">TensorFlow</text>
+      </g>
+      <g opacity="0" transform="translate(20,154)"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.3s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <circle cx="18" cy="17" r="4" fill="#D6A94A"/>
+        <text x="34" y="21">XGBoost</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- TOOLS -->
+  <g transform="translate(880,150)">
+    <g opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.5s" fill="freeze"/>
+      <rect x="0" y="0" width="240" height="36" fill="#232019"/>
+      <text x="120" y="23" text-anchor="middle" font-size="13" fill="#FAF6EF" letter-spacing="1.5">TOOLS</text>
+    </g>
+    <line x1="120" y1="36" x2="120" y2="56" stroke="#8C8577" stroke-width="1.3" stroke-dasharray="20">
+      <animate attributeName="stroke-dashoffset" from="20" to="0" dur="0.3s" begin="0.9s" fill="freeze"/>
+    </line>
+    <g font-size="13" fill="#232019">
+      <g opacity="0" transform="translate(20,66)"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.0s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <circle cx="18" cy="17" r="4" fill="#D6A94A"/>
+        <text x="34" y="21">Power BI</text>
+      </g>
+      <g opacity="0" transform="translate(20,110)"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.2s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <circle cx="18" cy="17" r="4" fill="#6E7452"/>
+        <text x="34" y="21">Git</text>
+      </g>
+      <g opacity="0" transform="translate(20,154)"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.4s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <circle cx="18" cy="17" r="4" fill="#C1603C"/>
+        <text x="34" y="21">GitHub</text>
+      </g>
+      <g opacity="0" transform="translate(20,198)"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.6s" fill="freeze"/>
+        <rect width="200" height="34" rx="3" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <circle cx="18" cy="17" r="4" fill="#D6A94A"/>
+        <text x="34" y="21">Jupyter</text>
+      </g>
+    </g>
+  </g>
+
+  <line x1="60" y1="490" x2="1140" y2="490" stroke="#E4D9C5" stroke-width="1"/>
+  <text x="60" y="510" font-size="10.5" letter-spacing="1.5" fill="#8C8577" font-family="'Courier New', monospace">CORE STRENGTH &#8212; SCIKIT-LEARN &amp; APPLIED MACHINE LEARNING</text>
+</svg>

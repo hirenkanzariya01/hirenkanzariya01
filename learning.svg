@@ -1,0 +1,67 @@
+<svg viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" font-family="'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="340" fill="#FAF6EF"/>
+
+  <text x="60" y="55" font-size="12" letter-spacing="3" fill="#8C8577" font-family="'Courier New', monospace">06 &#8212; GROWTH</text>
+  <text x="60" y="90" font-size="30" font-weight="700" fill="#232019">Currently Learning</text>
+  <line x1="60" y1="106" x2="130" y2="106" stroke="#C1603C" stroke-width="3"/>
+
+  <!-- roadmap stages -->
+  <g transform="translate(60,150)" font-family="'Courier New', monospace" font-size="12">
+    <line x1="0" y1="10" x2="1080" y2="10" stroke="#E4D9C5" stroke-width="3" stroke-dasharray="1080">
+      <animate attributeName="stroke-dashoffset" from="1080" to="0" dur="1.4s" begin="0.2s" fill="freeze"/>
+    </line>
+
+    <!-- stage: JUST STARTED -->
+    <g transform="translate(0,0)">
+      <circle cx="10" cy="10" r="10" fill="#232019"/>
+      <text x="10" y="42" text-anchor="middle" letter-spacing="1" fill="#8C8577">JUST STARTED</text>
+    </g>
+    <!-- stage: IN PROGRESS -->
+    <g transform="translate(370,0)">
+      <circle cx="10" cy="10" r="10" fill="#D6A94A"/>
+      <text x="10" y="42" text-anchor="middle" letter-spacing="1" fill="#8C8577">IN PROGRESS</text>
+    </g>
+    <!-- stage: ACTIVELY PRACTICING -->
+    <g transform="translate(760,0)">
+      <circle cx="10" cy="10" r="10" fill="#C1603C"/>
+      <text x="10" y="42" text-anchor="middle" letter-spacing="1" fill="#8C8577">ACTIVELY PRACTICING</text>
+    </g>
+  </g>
+
+  <!-- topic cards under each stage -->
+  <!-- JUST STARTED: Deep Learning, Data Engineering -->
+  <g transform="translate(60,210)" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="0.8s" fill="freeze"/>
+    <rect width="180" height="42" fill="#FFFFFF" stroke="#E4D9C5"/>
+    <text x="16" y="26" font-size="13" fill="#232019">Deep Learning</text>
+  </g>
+  <g transform="translate(60,262)" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="0.95s" fill="freeze"/>
+    <rect width="180" height="42" fill="#FFFFFF" stroke="#E4D9C5"/>
+    <text x="16" y="26" font-size="13" fill="#232019">Data Engineering</text>
+  </g>
+
+  <!-- IN PROGRESS: AI Agents, Generative AI, Advanced SQL -->
+  <g transform="translate(430,210)" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="1.1s" fill="freeze"/>
+    <rect width="180" height="42" fill="#FFFFFF" stroke="#D6A94A" stroke-width="1.4"/>
+    <text x="16" y="26" font-size="13" fill="#232019">AI Agents</text>
+  </g>
+  <g transform="translate(430,262)" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="1.25s" fill="freeze"/>
+    <rect width="180" height="42" fill="#FFFFFF" stroke="#D6A94A" stroke-width="1.4"/>
+    <text x="16" y="26" font-size="13" fill="#232019">Generative AI</text>
+  </g>
+  <!-- ACTIVELY PRACTICING: Machine Learning -->
+  <g transform="translate(820,210)" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="1.55s" fill="freeze"/>
+    <rect width="180" height="42" fill="#232019"/>
+    <text x="16" y="26" font-size="13" fill="#FAF6EF">Machine Learning</text>
+  </g>
+
+  <g transform="translate(620,262)" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.5s" begin="1.7s" fill="freeze"/>
+    <rect width="180" height="42" fill="#FFFFFF" stroke="#D6A94A" stroke-width="1.4"/>
+    <text x="16" y="26" font-size="13" fill="#232019">Advanced SQL</text>
+  </g>
+</svg>

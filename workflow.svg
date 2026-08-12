@@ -1,0 +1,119 @@
+<svg viewBox="0 0 1200 460" xmlns="http://www.w3.org/2000/svg" font-family="'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="460" fill="#FAF6EF"/>
+
+  <text x="60" y="55" font-size="12" letter-spacing="3" fill="#8C8577" font-family="'Courier New', monospace">04 &#8212; WORKFLOW</text>
+  <text x="60" y="90" font-size="30" font-weight="700" fill="#232019">How I Work With Data</text>
+  <line x1="60" y1="106" x2="130" y2="106" stroke="#C1603C" stroke-width="3"/>
+
+  <!-- ML PIPELINE (left) -->
+  <g transform="translate(70,150)">
+    <text x="0" y="0" font-size="12" letter-spacing="2" fill="#232019" font-weight="700">MACHINE LEARNING PIPELINE</text>
+    <g font-family="'Courier New', monospace" font-size="12" fill="#232019">
+      <!-- horizontal chain -->
+      <g id="mlnodes">
+        <!-- generated below manually -->
+      </g>
+
+      <!-- Data -->
+      <g opacity="0" transform="translate(0,30)"><animate attributeName="opacity" to="1" dur="0.35s" begin="0.2s" fill="freeze"/>
+        <rect width="118" height="34" fill="#232019"/><text x="59" y="22" text-anchor="middle" fill="#FAF6EF">DATA</text>
+      </g>
+      <line x1="118" y1="47" x2="140" y2="47" stroke="#8C8577" stroke-dasharray="22"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="0.3s" begin="0.5s" fill="freeze"/></line>
+
+      <g opacity="0" transform="translate(140,30)"><animate attributeName="opacity" to="1" dur="0.35s" begin="0.55s" fill="freeze"/>
+        <rect width="118" height="34" fill="none" stroke="#4A453D"/><text x="59" y="22" text-anchor="middle" fill="#232019">CLEANING</text>
+      </g>
+      <line x1="258" y1="47" x2="280" y2="47" stroke="#8C8577" stroke-dasharray="22"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="0.3s" begin="0.85s" fill="freeze"/></line>
+
+      <g opacity="0" transform="translate(280,30)"><animate attributeName="opacity" to="1" dur="0.35s" begin="0.9s" fill="freeze"/>
+        <rect width="118" height="34" fill="none" stroke="#4A453D"/><text x="59" y="22" text-anchor="middle" fill="#232019">EDA</text>
+      </g>
+      <line x1="398" y1="47" x2="420" y2="47" stroke="#8C8577" stroke-dasharray="22"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="0.3s" begin="1.2s" fill="freeze"/></line>
+
+      <g opacity="0" transform="translate(420,30)"><animate attributeName="opacity" to="1" dur="0.35s" begin="1.25s" fill="freeze"/>
+        <rect width="150" height="34" fill="none" stroke="#4A453D"/><text x="75" y="22" text-anchor="middle" fill="#232019" font-size="10.5">FEATURE ENG.</text>
+      </g>
+      <line x1="570" y1="47" x2="592" y2="47" stroke="#8C8577" stroke-dasharray="22"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="0.3s" begin="1.55s" fill="freeze"/></line>
+
+      <g opacity="0" transform="translate(592,30)"><animate attributeName="opacity" to="1" dur="0.35s" begin="1.6s" fill="freeze"/>
+        <rect width="118" height="34" fill="#C1603C"/><text x="59" y="22" text-anchor="middle" fill="#FAF6EF">MODEL</text>
+      </g>
+      <line x1="710" y1="47" x2="732" y2="47" stroke="#8C8577" stroke-dasharray="22"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="0.3s" begin="1.9s" fill="freeze"/></line>
+
+      <g opacity="0" transform="translate(732,30)"><animate attributeName="opacity" to="1" dur="0.35s" begin="1.95s" fill="freeze"/>
+        <rect width="140" height="34" fill="none" stroke="#4A453D"/><text x="70" y="22" text-anchor="middle" fill="#232019" font-size="10.5">EVALUATION</text>
+      </g>
+      <line x1="872" y1="47" x2="894" y2="47" stroke="#8C8577" stroke-dasharray="22"><animate attributeName="stroke-dashoffset" from="22" to="0" dur="0.3s" begin="2.25s" fill="freeze"/></line>
+
+      <g opacity="0" transform="translate(894,30)"><animate attributeName="opacity" to="1" dur="0.35s" begin="2.3s" fill="freeze"/>
+        <rect width="118" height="34" fill="#6E7452"/><text x="59" y="22" text-anchor="middle" fill="#FAF6EF">INSIGHT</text>
+      </g>
+
+      <circle r="3.5" fill="#D6A94A">
+        <animateMotion dur="3.5s" begin="2.7s" repeatCount="indefinite" path="M0,47 L1012,47"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- DATA ANALYSIS PIPELINE (below) -->
+  <g transform="translate(70,280)">
+    <text x="0" y="0" font-size="12" letter-spacing="2" fill="#232019" font-weight="700">DATA ANALYSIS FLOW</text>
+    <g font-family="'Courier New', monospace" font-size="12" fill="#232019">
+      <g opacity="0" transform="translate(0,30)"><animate attributeName="opacity" to="1" dur="0.35s" begin="0.3s" fill="freeze"/>
+        <rect width="140" height="34" fill="#232019"/><text x="70" y="22" text-anchor="middle" fill="#FAF6EF">RAW DATA</text>
+      </g>
+      <line x1="140" y1="47" x2="164" y2="47" stroke="#8C8577" stroke-dasharray="24"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="0.3s" begin="0.65s" fill="freeze"/></line>
+
+      <g opacity="0" transform="translate(164,30)"><animate attributeName="opacity" to="1" dur="0.35s" begin="0.7s" fill="freeze"/>
+        <rect width="120" height="34" fill="none" stroke="#4A453D"/><text x="60" y="22" text-anchor="middle" fill="#232019">PANDAS</text>
+      </g>
+      <line x1="284" y1="47" x2="308" y2="47" stroke="#8C8577" stroke-dasharray="24"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="0.3s" begin="1.05s" fill="freeze"/></line>
+
+      <g opacity="0" transform="translate(308,30)"><animate attributeName="opacity" to="1" dur="0.35s" begin="1.1s" fill="freeze"/>
+        <rect width="120" height="34" fill="none" stroke="#4A453D"/><text x="60" y="22" text-anchor="middle" fill="#232019">CLEANING</text>
+      </g>
+      <line x1="428" y1="47" x2="452" y2="47" stroke="#8C8577" stroke-dasharray="24"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="0.3s" begin="1.45s" fill="freeze"/></line>
+
+      <g opacity="0" transform="translate(452,30)"><animate attributeName="opacity" to="1" dur="0.35s" begin="1.5s" fill="freeze"/>
+        <rect width="100" height="34" fill="none" stroke="#4A453D"/><text x="50" y="22" text-anchor="middle" fill="#232019">EDA</text>
+      </g>
+      <line x1="552" y1="47" x2="576" y2="47" stroke="#8C8577" stroke-dasharray="24"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="0.3s" begin="1.85s" fill="freeze"/></line>
+
+      <g opacity="0" transform="translate(576,30)"><animate attributeName="opacity" to="1" dur="0.35s" begin="1.9s" fill="freeze"/>
+        <rect width="160" height="34" fill="#D6A94A"/><text x="80" y="22" text-anchor="middle" fill="#232019" font-size="10.5">VISUALIZATION</text>
+      </g>
+      <line x1="736" y1="47" x2="760" y2="47" stroke="#8C8577" stroke-dasharray="24"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="0.3s" begin="2.25s" fill="freeze"/></line>
+
+      <g opacity="0" transform="translate(760,30)"><animate attributeName="opacity" to="1" dur="0.35s" begin="2.3s" fill="freeze"/>
+        <rect width="140" height="34" fill="#6E7452"/><text x="70" y="22" text-anchor="middle" fill="#FAF6EF">INSIGHT</text>
+      </g>
+
+      <circle r="3.5" fill="#C1603C">
+        <animateMotion dur="3.2s" begin="2.8s" repeatCount="indefinite" path="M0,47 L900,47"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- KPI cards -->
+  <g transform="translate(70,390)">
+    <g font-family="'Courier New', monospace">
+      <g transform="translate(0,0)" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="2.6s" fill="freeze"/>
+        <rect width="150" height="46" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <text x="14" y="20" font-size="9.5" fill="#8C8577">PIPELINE STAGE</text>
+        <text x="14" y="37" font-size="14" fill="#232019" font-weight="700">Data &#8594; Insight</text>
+      </g>
+      <g transform="translate(170,0)" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="2.8s" fill="freeze"/>
+        <rect width="150" height="46" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <text x="14" y="20" font-size="9.5" fill="#8C8577">PRIMARY TOOLING</text>
+        <text x="14" y="37" font-size="14" fill="#232019" font-weight="700">Python + SQL</text>
+      </g>
+      <g transform="translate(340,0)" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="3.0s" fill="freeze"/>
+        <rect width="150" height="46" fill="#FFFFFF" stroke="#E4D9C5"/>
+        <text x="14" y="20" font-size="9.5" fill="#8C8577">MODEL LIBRARY</text>
+        <text x="14" y="37" font-size="14" fill="#232019" font-weight="700">Scikit-learn</text>
+      </g>
+    </g>
+  </g>
+
+  <line x1="60" y1="440" x2="1140" y2="440" stroke="#E4D9C5" stroke-width="1"/>
+</svg>

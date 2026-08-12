@@ -1,0 +1,26 @@
+<svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" font-family="'Helvetica Neue', Arial, sans-serif">
+  <rect width="1200" height="260" fill="#232019"/>
+
+  <text x="60" y="55" font-size="12" letter-spacing="3" fill="#8C8577" font-family="'Courier New', monospace">07 &#8212; WHY WORK WITH ME</text>
+  <line x1="60" y1="72" x2="130" y2="72" stroke="#C1603C" stroke-width="3"/>
+
+  <g font-family="'Courier New', monospace" font-size="22" font-weight="700" letter-spacing="2">
+    <text x="60" y="140" fill="#FAF6EF" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.2s" fill="freeze"/>BUILD</text>
+    <text x="60" y="140" fill="#8C8577" opacity="0" x2="0"><animate attributeName="opacity" values="0;0.6;0" dur="0" fill="freeze"/></text>
+    <text x="220" y="140" fill="#8C8577" font-size="18">&#8594;</text>
+    <text x="270" y="140" fill="#FAF6EF" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="0.7s" fill="freeze"/>ANALYZE</text>
+    <text x="470" y="140" fill="#8C8577" font-size="18">&#8594;</text>
+    <text x="520" y="140" fill="#FAF6EF" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.2s" fill="freeze"/>SOLVE</text>
+    <text x="680" y="140" fill="#8C8577" font-size="18">&#8594;</text>
+    <text x="730" y="140" fill="#FAF6EF" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="1.7s" fill="freeze"/>LEARN</text>
+    <text x="890" y="140" fill="#8C8577" font-size="18">&#8594;</text>
+    <text x="940" y="140" fill="#C1603C" opacity="0"><animate attributeName="opacity" to="1" dur="0.4s" begin="2.2s" fill="freeze"/>DELIVER</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.6s" begin="2.7s" fill="freeze"/>
+    <text x="60" y="195" font-size="16" fill="#F1E9DA">Looking for AI/ML, Data Analytics &amp; Software opportunities.</text>
+    <rect x="60" y="215" width="240" height="34" rx="3" fill="#C1603C"/>
+    <text x="180" y="237" text-anchor="middle" font-size="12" letter-spacing="1.5" fill="#FAF6EF" font-family="'Courier New', monospace">LET'S TALK &#8594;</text>
+  </g>
+</svg>
