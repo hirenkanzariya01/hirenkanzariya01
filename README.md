@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🌌 KANZARIYA Hiren
+# 🌌 KANZARIYA HIREN
 ### 🚀 Data Architect | AI & Analytics Visionary
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=200&lines=Decoding+Data+to+Drive+Innovation;Building+Intelligent+Data+Experiences;Transforming+Raw+Information+into+Strategic+Insights" alt="Typing SVG" />
